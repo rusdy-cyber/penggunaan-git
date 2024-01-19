@@ -14,10 +14,12 @@ git clone
 git add nama_file
 ```
 ## menyimpan perubahan Anda ke repositori lokal dengan pesan commit.
-contoh :
-git commit -m "Menambahkan file README.md"
 ```
 git commit
+```
+contoh :
+```
+git commit -m "Menambahkan file README.md"
 ```
 ## melihat status file dan perubahan Anda di repositori lokal Anda.
 ```
