@@ -3,4 +3,4 @@
 ```
 git init nama-dir
 ```
-<i class="fa-solid fa-user"></i>
+<i class="fa-regular fa-user"></i>
