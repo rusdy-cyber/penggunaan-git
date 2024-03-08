@@ -1,5 +1,5 @@
 # login github
-masukkan pada terminal github
+clik kanan dan pilih "open git bash hare" atau buka git yang ada di pc/laptop
 ```
 git config --global user.name "Nama Anda"
 git config --global user.email "email@example.com"
