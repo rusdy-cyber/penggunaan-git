@@ -36,11 +36,12 @@ selanjutnya
 git push -u origin main
 ```
 # jika ingin update filenya 
-saya sudah melakukan ujicoba link hasil uji coba insert dan update atau tekan lihat
-• [lihat](https://github.com/rusdy-cyber/percobaan)•
+saya sudah melakukan ujicoba, link hasil uji coba insert dan update 
 ```
 https://github.com/rusdy-cyber/percobaan
 ```
+atau tekan lihat
+• [lihat](https://github.com/rusdy-cyber/percobaan)•
 langkah-langkah :
 ```
 git remote add origin "link git repositorinya"
