@@ -26,6 +26,13 @@ selanjutnya
 git commit -m "first commit"
 git branch -M main
 git remote add origin "link git repositori yang sudah di buat"
+```
+contoh :
+```
+git remote add origin https://github.com/rusdy-cyber/penggunaan-git.git
+```
+selanjutnya
+```
 git push -u origin main
 ```
 # jika ingin update filenya 
