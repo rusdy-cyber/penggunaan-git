@@ -28,7 +28,12 @@ git branch -M main
 git remote add origin "link git repositori yang sudah di buat"
 git push -u origin main
 ```
-# jika ingin update filenya
+# jika ingin update filenya 
+saya sudah melakukan ujicoba link hasil uji coba insert dan update
+```
+https://github.com/rusdy-cyber/percobaan
+```
+langkah-langkah :
 ```
 git remote add origin "link git repositorinya"
 git add .
@@ -38,7 +43,7 @@ git push -u origin main
 
 ```
 <img height="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png">       <img height="30" src="https://user-images.githubusercontent.com/25181517/192108374-8da61ba1-99ec-41d7-80b8-fb2f7c0a4948.png">     <img height="30" src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png">     <img height="30" src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/1275d076-f047-432b-9084-308f88f8c176">        <img height="30" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png">        <img height="30" src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png">        <img height="30" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png">
-## penggunaan git lainnya
+## penggunaan git lainnya tidak disarankan di ikuti
 ## membuat repositori baru di dalam folder local
 ```
 git init nama-dir
