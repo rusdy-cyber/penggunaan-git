@@ -36,7 +36,8 @@ selanjutnya
 git push -u origin main
 ```
 # jika ingin update filenya 
-saya sudah melakukan ujicoba link hasil uji coba insert dan update
+saya sudah melakukan ujicoba link hasil uji coba insert dan update atau tekan lihat
+• [lihat](https://github.com/rusdy-cyber/percobaan)•
 ```
 https://github.com/rusdy-cyber/percobaan
 ```
