@@ -43,6 +43,7 @@ https://github.com/rusdy-cyber/percobaan
 atau tekan lihat
 • [lihat](https://github.com/rusdy-cyber/percobaan)•
 langkah-langkah :
+> _sebelum melakukan git push untuk update di sarankan melakukan clone agar file yang ada di repository local dan git sama, untuk menghindari fatal eror_
 ```
 git remote add origin "link git repositorinya"
 git add .
