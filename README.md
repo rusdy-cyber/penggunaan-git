@@ -52,7 +52,7 @@ git add .
 git commit -m "update"
 git push -u origin main
 ```
-jika terjadi eror
+jika terjadi eror atau sudah melakukan perubahan pada github di sarankan berikut: 
 ```
 git remote add origin "link git repositorinya"
 git pull origin main
