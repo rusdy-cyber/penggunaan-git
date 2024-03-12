@@ -1,11 +1,11 @@
 # penggunaan-git
-## `login untuk push` di derektory local
-`clik kanan` dan pilih `open git bash hare` atau buka git yang ada di pc/laptop masukkan satu-satu :
+## `login untuk push` di `derektory local`
+`clik kanan` dan pilih `open git bash hare` atau `buka git yang ada di pc/laptop` masukkan satu-satu :
 ```
 git config --global user.name "username"
 git config --global user.email "email@example.com"
 ```
-## ``create dan push` file pertama kali
+## `create dan push` file pertama kali
 - buat repositori` pada github terlebih dahulu
 - buat menjadi `publik`
 - buat `tanpa file read.me`
