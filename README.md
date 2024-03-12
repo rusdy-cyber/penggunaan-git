@@ -6,7 +6,7 @@ git config --global user.name "username"
 git config --global user.email "email@example.com"
 ```
 ## `create dan push` file pertama kali
-- buat repositori` pada github terlebih dahulu
+- `buat repositori` pada github terlebih dahulu
 - buat menjadi `publik`
 - buat `tanpa file read.me`
 - `buka terminal git` pada file project yang mau di uplod atau `buka terminal visual projek` yang di mau di oploud
