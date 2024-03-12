@@ -1,14 +1,15 @@
-# login github
-clik kanan dan pilih "open git bash hare" atau buka git yang ada di pc/laptop
+# penggunaan-git
+## `login untuk push` di derektory local
+`clik kanan` dan pilih `open git bash hare` atau buka git yang ada di pc/laptop masukkan satu-satu :
 ```
-git config --global user.name "Nama Anda"
+git config --global user.name "username"
 git config --global user.email "email@example.com"
 ```
-# create dan push file pertama kali
-- buat repositori pada github terlebih dahulu
-- buat menjadi publik
-- buat tanpa file read.me
-- buka terminal git pada file project yang mau di uplod atau buka terminal visual projek yang di mau di oploud
+## ``create dan push` file pertama kali
+- buat repositori` pada github terlebih dahulu
+- buat menjadi `publik`
+- buat `tanpa file read.me`
+- `buka terminal git` pada file project yang mau di uplod atau `buka terminal visual projek` yang di mau di oploud
 masukkan perintah :
 ```
 git init
@@ -35,7 +36,7 @@ selanjutnya
 ```
 git push -u origin main
 ```
-# jika ingin update filenya 
+# jika ingin `update filenya` 
 saya sudah melakukan ujicoba, link hasil uji coba insert dan update 
 ```
 https://github.com/rusdy-cyber/percobaan
@@ -43,16 +44,16 @@ https://github.com/rusdy-cyber/percobaan
 atau tekan lihat
 • [lihat](https://github.com/rusdy-cyber/percobaan)•
 langkah-langkah :
-> _sebelum melakukan git push untuk update di sarankan melakukan clone agar file yang ada di repository local dan git sama, untuk menghindari fatal eror_
+> _`sebelum melakukan git push untuk update` di sarankan `melakukan clone` agar file yang ada di repository local dan git sama, untuk menghindari `fatal eror`_
 
-cara rekomendasi :
+cara `rekomendasi` :
 ```
 git remote add origin "link git repositorinya"
 git add .
 git commit -m "update"
 git push -u origin main
 ```
-jika terjadi eror atau sudah melakukan perubahan pada github di sarankan berikut: 
+jika `terjadi eror` atau `sudah melakukan perubahan pada github di sarankan` berikut: 
 ```
 git remote add origin "link git repositorinya"
 git pull origin main
