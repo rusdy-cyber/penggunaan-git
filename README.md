@@ -4,6 +4,9 @@
 
 **informasi**
 > _**penggunaan git untuk pemula dengan cara yang mudah, lebih pratis jika ingin dengan `mobiitas tinggi langsung menggunakan github.dev pada web browser atau menggunakan git.dev di visual studio code`**_
+
+# Pertama `login user di terminal`
+
 ### `login untuk push` di `derektory local`
 
 `clik kanan` dan pilih `open git bash hare` atau `buka git yang ada di pc/laptop` masukkan satu-satu :
