@@ -14,7 +14,8 @@
 git config --global user.name "username"
 git config --global user.email "email@example.com"
 ```
-### `create dan push` file pertama kali
+# kedua `create dan push` file pertama kali
+**langkah-langkah**
 - `buat repositori` pada github terlebih dahulu
 - buat menjadi `publik`
 - buat `tanpa file readme.md`
@@ -45,6 +46,8 @@ selanjutnya
 ```
 git push -u origin main
 ```
+
+
 # jika ingin `update filenya` 
 saya sudah melakukan ujicoba, link hasil uji coba insert dan update 
 ```
@@ -52,7 +55,9 @@ https://github.com/rusdy-cyber/percobaan
 ```
 atau tekan lihat
 • [lihat](https://github.com/rusdy-cyber/percobaan)•
-langkah-langkah :
+
+**langkah-langkah :**
+
 > _`sebelum melakukan git push untuk update` di sarankan `melakukan clone` agar file yang ada di repository local dan git sama, untuk menghindari `fatal eror`_
 
 cara `rekomendasi` :
