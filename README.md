@@ -48,7 +48,7 @@ git push -u origin main
 ```
 
 
-# jika ingin `update filenya` 
+# ketiga jika ingin `update filenya` 
 saya sudah melakukan ujicoba, link hasil uji coba insert dan update 
 ```
 https://github.com/rusdy-cyber/percobaan
