@@ -1,3 +1,5 @@
+**Baca dengan teliti agar memahami dengan baik**
+
 # penggunaan-git <img height="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"> 
 > _**penggunaan git untuk pemula dengan cara yang mudah, lebih pratis jika ingin dengan `mobiitas tinggi langsung menggunakan github.dev pada vs code`**_
 ## `login untuk push` di `derektory local`
