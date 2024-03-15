@@ -3,7 +3,7 @@
 # penggunaan-git <img height="30" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png"> 
 
 **informasi**
-> _**penggunaan git untuk pemula dengan cara yang mudah, lebih pratis jika ingin dengan `mobiitas tinggi langsung menggunakan github.dev pada web browser atau menggunakan git.dev di visual studio code`**_
+> _**penggunaan git untuk pemula dengan cara yang mudah, lebih pratis jika ingin dengan `mobiitas tinggi langsung menggunakan github.dev pada web browser atau menggunakan github.remote di visual studio code`**_
 
 # Pertama `login user di terminal`
 
@@ -24,7 +24,7 @@ masukkan perintah :
 ```
 git init
 ```
-jika semuanya maka
+selanjutnya jika semua file 
 ```
 git add .
 ```
@@ -36,9 +36,9 @@ selanjutnya
 ```
 git commit -m "first commit"
 git branch -M main
-git remote add origin "link git repositori yang sudah di buat"
+git remote add origin link_repositori_guthub_yang_sudah_di_buat
 ```
-contoh :
+contoh `git remote` :
 ```
 git remote add origin https://github.com/rusdy-cyber/penggunaan-git.git
 ```
@@ -58,18 +58,18 @@ atau tekan lihat
 
 **langkah-langkah :**
 
-> _`sebelum melakukan git push untuk update` di sarankan `melakukan clone` agar file yang ada di repository local dan git sama, untuk menghindari `fatal eror`_
+> _`sebelum melakukan git push untuk update` di sarankan `melakukan git pull origin main` atau melakukan `gitu clone` agar file yang ada di repository local dan git sama, untuk menghindari `fatal eror`_
 
 cara `rekomendasi` :
 ```
-git remote add origin "link git repositorinya"
+git remote add origin link_repository_github
 git add .
 git commit -m "update"
 git push -u origin main
 ```
 jika `terjadi eror` atau `sudah melakukan perubahan pada github di sarankan` berikut: 
 ```
-git remote add origin "link git repositorinya"
+git remote add origin link_repository_github
 git pull origin main
 git add .
 git commit -m "update"
@@ -77,7 +77,7 @@ git push -u origin main
 ```
 cara lain :
 ```
-git remote add origin "link git repositorinya"
+git remote add origin link_repository_github
 git add .
 git commit -m "update"
 git branch -M main
