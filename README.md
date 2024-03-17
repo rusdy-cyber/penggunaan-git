@@ -14,6 +14,11 @@
 git config --global user.name "username"
 git config --global user.email "email@example.com"
 ```
+### `logout akun` di `derektory local`
+```
+git config --unset user.email "masukkan gmail"
+git config --unset user.name "masukkan username"
+```
 # kedua `create dan push` file pertama kali
 **langkah-langkah**
 - `buat repositori` pada github terlebih dahulu
