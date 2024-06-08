@@ -14,6 +14,11 @@
 git config --global user.name "username"
 git config --global user.email "email@example.com"
 ```
+### ini untuk local
+```
+git config  user.name "username"
+git config  user.email "email@example.com"
+```
 ### `logout akun` di `derektory local`
 ```
 git config --unset user.email "masukkan gmail"
