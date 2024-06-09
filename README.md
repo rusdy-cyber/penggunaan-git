@@ -14,7 +14,8 @@
 git config --global user.name "username"
 git config --global user.email "email@example.com"
 ```
-### ini untuk local
+### ini untuk local 
+`click kanan pada folder yang ingiin di push tekan cari open git bash hare`
 ```
 git config  user.name "username"
 git config  user.email "email@example.com"
